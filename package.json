@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-starter",
+  "version": "1.0.0",
+  "description": "A TypeScript starter for Next.js",
+  "private": true,
+  "author": "Felix Lee",
+  "scripts": {
+    "dev": "node sql-lite-serialize.js"
+  },
+  "dependencies": {
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+  }
+}
